@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker (React)
 
 This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
@@ -12,4 +13,6 @@ npm start
 # Build for prod
 npm run build
 ```
+=======
+>>>>>>> 03d82a957b11f13dcf57a80f384417e751df44db
 
