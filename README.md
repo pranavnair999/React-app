@@ -10,9 +10,3 @@ npm install
 # Run on http://localhost:3000
 npm start
 
-# Build for prod
-npm run build
-```
-=======
->>>>>>> 03d82a957b11f13dcf57a80f384417e751df44db
-
