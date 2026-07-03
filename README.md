@@ -6,6 +6,8 @@ This is a React version of the [vanilla JS Expense Tracker](https://github.com/b
 ## Usage
 ```
 npm install
+or
+npm i 
 
 # Run on http://localhost:3000
 npm start
