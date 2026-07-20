@@ -11,4 +11,4 @@ bpm install
 
 # Run on http://localhost:3000
 npm start
-to start the codebase
+to run the project
